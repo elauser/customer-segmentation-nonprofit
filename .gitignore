@@ -5,7 +5,7 @@ data/transformed/*.csv
 __pycache__/
 *.py[cod]
 *$py.class
-
+ignore/
 # C extensions
 *.so
 
